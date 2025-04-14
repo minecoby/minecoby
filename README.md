@@ -1,4 +1,9 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MINECOBY&fontSize=90)
+
+
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=minecoby&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="MINECOBY's github stats" /></a>
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minecoby&layout=compact&theme=tokyonight&hide_border=true" /></a>
+
 
 <!--
 **minecoby/minecoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
